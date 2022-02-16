@@ -1,5 +1,6 @@
-Olá, seja bem-vindo(a) ao meu perfil!
-##
+# Olá, seja bem-vindo(a) ao meu perfil!
+
+### Contatos:
 
 <div>  
   <a href="https://www.linkedin.com/in/joao-v-araújo-962313219/" /><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -15,6 +16,8 @@ Olá, seja bem-vindo(a) ao meu perfil!
 </div>
 
 ##
+### Estou aprendendo
+
 <div style="displa: inline_block"><br>
 <div align="center">
   <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
