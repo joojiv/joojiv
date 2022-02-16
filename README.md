@@ -16,7 +16,7 @@
 </div>
 
 ##
-### Estou aprendendo
+### Linguagens que estou aprendendo
 
 <div style="displa: inline_block"><br>
 <div align="center">
